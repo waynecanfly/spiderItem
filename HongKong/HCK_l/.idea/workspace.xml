@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b4667ea-eeee-471a-8e73-8e8cf261c269" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/china_l$UpdatePro_shanghai.coverage" NAME="UpdatePro_shanghai Coverage Results" MODIFIED="1533540505743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/china" />
+    <SUITE FILE_PATH="coverage/HCK$UpdatePro_shanghai.coverage" NAME="UpdatePro_shanghai Coverage Results" MODIFIED="1534235110074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/china" />
+    <SUITE FILE_PATH="coverage/china$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1524907519634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/china/ScriptDir" />
+    <SUITE FILE_PATH="coverage/ChinaSpider$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1503544244082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChinaSpider/spiders" />
+    <SUITE FILE_PATH="coverage/china_l$chinaStart.coverage" NAME="chinaStart Coverage Results" MODIFIED="1527231050998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/china/spiders" />
+    <SUITE FILE_PATH="coverage/ChinaIntro$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1505719364015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChinaIntro/spiders" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HCK_Execute2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_Execute2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4230">
+              <caret line="146" column="28" selection-start-line="146" selection-start-column="28" selection-end-line="146" selection-end-column="28" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_detail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCK_l/ScriptDir/add_detail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1380">
+              <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCK_l/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="169" selection-start-line="169" selection-end-line="169" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCK_l/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="711">
+              <caret line="116" column="19" lean-forward="true" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HCK_l/start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HCK_pdf_spider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_pdf_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="208" column="30" lean-forward="true" selection-start-line="208" selection-start-column="30" selection-end-line="208" selection-end-column="30" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyfilesPipeline.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCK_l/MyfilesPipeline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Move_2_Nas.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCK_l/Move_2_Nas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+              <folding>
+                <element signature="e#24#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HCK_infor_for_web.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_infor_for_web.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="637">
+              <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HCK_information.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_information.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>浦发银行</find>
+      <find>白云机场</find>
+      <find>下载</find>
+      <find>2</find>
+      <find>go</find>
+      <find>href</find>
+      <find>encoding</find>
+      <find>000001</find>
+      <find>600000</find>
+      <find>E-mail</find>
+      <find>上市日</find>
+      <find>www.bank.pingan.com</find>
+      <find>stock_market_code</find>
+      <find>company_code</find>
+      <find>num</find>
+      <find>get_media_requests</find>
+      <find>doc_source_url</find>
+      <find>code</find>
+      <find>secretary_name</find>
+      <find>yield item</find>
+      <find>print(item)</find>
+      <find>response.meta</find>
+      <find>&quot;None&quot;</find>
+      <find>HCK</find>
+      <find>jud_season_num</find>
+      <find>status</find>
+      <find>None</find>
+      <find>&quot;=&quot;</find>
+      <find>FilesPipeline</find>
+      <find>Category</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/china/spiders/UpdatePro_shenzhen_new.py" />
+        <option value="$PROJECT_DIR$/china/spiders/shenzhen_download_spider_new.py" />
+        <option value="$PROJECT_DIR$/china/spiders/shenzhen_delisting_download.py" />
+        <option value="$PROJECT_DIR$/china/spiders/shenzhen_sensible_information.py" />
+        <option value="$PROJECT_DIR$/china/spiders/shenzhen_sensible_talent_pool.py" />
+        <option value="$PROJECT_DIR$/china/spiders/shenzhen_announcement_download.py" />
+        <option value="$PROJECT_DIR$/china/spiders/shenzhen_secretary_information.py" />
+        <option value="$PROJECT_DIR$/china/spiders/shenzhen_secretary_training_record.py" />
+        <option value="$PROJECT_DIR$/china/spiders/shenzhen_integrity_file.py" />
+        <option value="$PROJECT_DIR$/china/spiders/xsgfjxyjc.py" />
+        <option value="$PROJECT_DIR$/china/spiders/shenzhen_xsgfjxyjc.py" />
+        <option value="$PROJECT_DIR$/china/spiders/HCK_Analysis_xls.py" />
+        <option value="$PROJECT_DIR$/china/spiders/shenzhen_continuous_supervision.py" />
+        <option value="$PROJECT_DIR$/china/ScriptDir/HCK_Analysis_xls.py" />
+        <option value="$PROJECT_DIR$/china/MyfilesPipeline.py" />
+        <option value="$PROJECT_DIR$/china/spiders/HCK_pdf_for_loss.py" />
+        <option value="$PROJECT_DIR$/china/spiders/HCK_infor_for_web.py" />
+        <option value="$PROJECT_DIR$/china/spiders/chinaExecuteLast.py" />
+        <option value="$PROJECT_DIR$/china/ScriptDir/test.py" />
+        <option value="$PROJECT_DIR$/china/ScriptDir/HCK_ExecuteFirst.py" />
+        <option value="$PROJECT_DIR$/china/ScriptDir/HCK_get_all_company_list.py" />
+        <option value="$PROJECT_DIR$/china/spiders/HCK_get_all_company_list.py" />
+        <option value="$PROJECT_DIR$/china/MyMiddleware.py" />
+        <option value="$PROJECT_DIR$/china/ScriptDir/insert_data_to_companyDataSource.py" />
+        <option value="$PROJECT_DIR$/china/spiders/HCK_Execute1.py" />
+        <option value="$PROJECT_DIR$/china/spiders/HCK_Execute2.py" />
+        <option value="$PROJECT_DIR$/china/spiders/HCK_information.py" />
+        <option value="$PROJECT_DIR$/china/items.py" />
+        <option value="$PROJECT_DIR$/china/pipelines.py" />
+        <option value="$PROJECT_DIR$/china/start.py" />
+        <option value="$PROJECT_DIR$/china/settings.py" />
+        <option value="$PROJECT_DIR$/china/spiders/HCK_ExecuteLast.py" />
+        <option value="$PROJECT_DIR$/china/ScriptDir/Initialization.py" />
+        <option value="$PROJECT_DIR$/china/spiders/HCK_pdf_spider.py" />
+        <option value="$PROJECT_DIR$/china/ScriptDir/Move_2_Nas.py" />
+        <option value="$PROJECT_DIR$/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/HCK_l/spiders/HCK_Execute_Initialization.py" />
+        <option value="$PROJECT_DIR$/HCK_l/spiders/HCK_infor_for_web.py" />
+        <option value="$PROJECT_DIR$/HCK_l/spiders/HCK_pdf_for_loss.py" />
+        <option value="$PROJECT_DIR$/HCK_l/ScriptDir/Move_2_Nas.py" />
+        <option value="$PROJECT_DIR$/HCK_l/items.py" />
+        <option value="$PROJECT_DIR$/HCK_l/Initialization.py" />
+        <option value="$PROJECT_DIR$/HCK_l/spiders/HCK_pdf_spider.py" />
+        <option value="$PROJECT_DIR$/HCK_l/pipelines.py" />
+        <option value="$PROJECT_DIR$/HCK_l/spiders/HCK_information.py" />
+        <option value="$PROJECT_DIR$/HCK_l/ScriptDir/add_detail.py" />
+        <option value="$PROJECT_DIR$/HCK_l/spiders/HCK_Execute2.py" />
+        <option value="$PROJECT_DIR$/HCK_l/MyfilesPipeline.py" />
+        <option value="$PROJECT_DIR$/HCK_l/Move_2_Nas.py" />
+        <option value="$PROJECT_DIR$/HCK_l/start.py" />
+        <option value="$PROJECT_DIR$/HCK_l/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HCK_l" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HCK_l" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HCK_l" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HCK_l" type="462c0819:PsiDirectoryNode" />
+              <item name="HCK_l" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HCK_l" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HCK_l" type="462c0819:PsiDirectoryNode" />
+              <item name="HCK_l" type="462c0819:PsiDirectoryNode" />
+              <item name="ScriptDir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HCK_l" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HCK_l" type="462c0819:PsiDirectoryNode" />
+              <item name="HCK_l" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/china/start.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\zx\item\HCK\china\ScriptDir" />
+      <recent name="W:\zx\item\HCK\china\spiders" />
+      <recent name="W:\zx\item\china_l\china\ScriptDir" />
+      <recent name="W:\gerapyWorkspace\gerapy\projects\china_l\china\ScriptDir" />
+      <recent name="W:\gerapyWorkspace\gerapy\projects\china_l\china\spiders" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="W:\spiderItem\HongKong\HCK_l\HCK_l" />
+      <recent name="W:\zx\item\HCK\china\spiders" />
+      <recent name="W:\zx\item\china_l\china\spiders" />
+      <recent name="W:\gerapyWorkspace\gerapy\projects\china_l\china\ScriptDir" />
+      <recent name="D:\item\OPDCMS\listed company update\china\china\ScriptDir" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.UpdatePro_shanghai">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <module name="ChinaSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="ChinaSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="ChinaSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="ChinaIntro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\install\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/china/ScriptDir" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="W:\gerapyWorkspace\gerapy\projects\china_l\china\spiders\UpdatePro_shanghai_basicinfo_headless_chrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="UpdatePro_shanghai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChinaIntro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/china" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/china/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ChinaSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="chinaStart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChinaIntro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/china/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\新建文件夹\china_l\china\chinaStartPipeline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="ChinaSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="ChinaSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="ChinaSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="ChinaSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="ChinaSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.chinaStart" />
+      <item itemvalue="Python.UpdatePro_shanghai" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.UpdatePro_shanghai" />
+        <item itemvalue="Python.chinaStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b4667ea-eeee-471a-8e73-8e8cf261c269" name="Default" comment="" />
+      <created>1503456287710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503456287710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.66737515" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36019737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.140625" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48038176" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.37407014" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="response.body_as_unicode()" />
+        <watch expression="response.body_as_unicode()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/china/spiders/UpdatePro_shenzhen_basicinfo_new.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/UpdatePro_shenzhen_new.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/update_new_company_code.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/company_status.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/company_name_change.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shenzhen_sensible_information.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shenzhen_sensible_talent_pool.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shenzhen_secretary_training_record.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shenzhen_announcement_download.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shenzhen_delisting_download.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shenzhen_secretary_information.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shenzhen_continuous_supervision.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shenzhen_xsgfjxyjc.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shenzhen_integrity_file.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shenzhen_download_spider.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shenzhen_download_spider_new.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/shanghai_download_spider.py" />
+    <entry file="file://$PROJECT_DIR$/china/spiders/HCK_Analysis_xls.py" />
+    <entry file="file://$PROJECT_DIR$/china/ScriptDir/Download_Financial_Statements.py" />
+    <entry file="file://$PROJECT_DIR$/china/ScriptDir/UpdatePro_shanghai_basicinfo_scrapySplash_old.py" />
+    <entry file="file://$PROJECT_DIR$/china/ScriptDir/UpdatePro_shanghai_basicinfo_headless_chrome_old.py" />
+    <entry file="file://$PROJECT_DIR$/HCK_l/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/ScriptDir/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/china/ScriptDir/HCK_ExecuteFirst.py" />
+    <entry file="file://$PROJECT_DIR$/HCK_l/ScriptDir/HCK_Execute1_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/china/ScriptDir/HCK_get_all_company_list.py" />
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_Execute_Initialization.py" />
+    <entry file="file://$PROJECT_DIR$/HCK_l/ScriptDir/Initialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_pdf_for_loss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/ScriptDir/Move_2_Nas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/install/Python3/Lib/site-packages/scrapy/pipelines/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/Initialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/MyMiddleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_ExecuteLast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_Execute1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="18" column="112" selection-start-line="18" selection-start-column="112" selection-end-line="18" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/ScriptDir/insert_data_to_companyDataSource.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/ScriptDir/HCK_Analysis_xls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="112" column="26" selection-start-line="97" selection-start-column="8" selection-end-line="112" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/ScriptDir/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_Execute2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4230">
+          <caret line="146" column="28" selection-start-line="146" selection-start-column="28" selection-end-line="146" selection-end-column="28" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/ScriptDir/add_detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_information.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/MyfilesPipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/Move_2_Nas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_infor_for_web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/spiders/HCK_pdf_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="208" column="30" lean-forward="true" selection-start-line="208" selection-start-column="30" selection-end-line="208" selection-end-column="30" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="116" column="19" lean-forward="true" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCK_l/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

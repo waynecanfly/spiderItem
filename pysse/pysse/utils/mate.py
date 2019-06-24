@@ -1,0 +1,30 @@
+"""定义一些字段对应关系"""
+
+
+fields_mappings = {
+    'bond_code': 'BOND_CODE',
+    'short_name': 'BOND_ABBR',
+    'issuer': 'ISSUE_OWNER',
+    'bond_full_name_origin': 'BOND_FULL',
+    'bond_type': 'BOND_TYPE',
+    'actual_circulation': 'ISSUE_VALUE',
+    'total_value': 'SSE_TOTAL_AMT',
+    'issue_start_date': 'ISSUED_START_DAY',
+    'issue_end_date': 'ISSUED_END_DAY',
+    'start_interest_date': 'START_DATE',
+    'end_date': 'END_DATE',
+    'ipo_date': 'LISTING_DATE',
+    'bank_code': 'BANK_CODE',
+    'interest_rate_type': 'INTEREST_TYPE',
+    'interest_payment_method': 'PAY_TYPE',
+    'coupon_rate': 'FACE_RATE',
+    'repayment_period': 'TERM_YEAR',
+    'base_rate': 'BASE_RATE',
+    'float_interest_rate': 'FLOAT_RATE',
+    'rate': 'RATE',
+    'clean_price': 'CLEAN_PRICE',
+    'manage_type': 'MANAGE_TYPE',
+    'issuance_method': 'TRADE_TYPE',
+    'bond_rating': 'BOND_RATING',
+    'main_rating': 'MAIN_RATING',
+}

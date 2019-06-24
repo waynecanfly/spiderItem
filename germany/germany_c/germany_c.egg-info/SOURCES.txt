@@ -1,0 +1,16 @@
+setup.py
+germany/MyPipeline.py
+germany/__init__.py
+germany/items.py
+germany/middlewares.py
+germany/pipelines.py
+germany/settings.py
+germany/start.py
+germany/ScriptDir/__init__.py
+germany/spiders/FrankfurtBasicInfo.py
+germany/spiders/__init__.py
+germany_c.egg-info/PKG-INFO
+germany_c.egg-info/SOURCES.txt
+germany_c.egg-info/dependency_links.txt
+germany_c.egg-info/entry_points.txt
+germany_c.egg-info/top_level.txt

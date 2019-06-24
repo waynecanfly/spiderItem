@@ -1,0 +1,11 @@
+chinaAllNew项目主要有以下两个功能：
+1.每天更新新上市公司，有新的公司上市就下载该公司基本信息到company表及公司详情信息到company_profile_definition和company_profile_detail两张表
+2.每天更新已有公司及新上市公司的财报及非财报（都是文件类型），有新的文件就下载
+china_update_infor
+定期更新已有公司基本信息，以防有所变更
+
+
+程序启动入口为start.py
+具体执行了哪些程序，及每个程序的作用里面有注释，其它国家类似，不再一一赘述
+
+下载网页地址请查看company_data_source_profile表

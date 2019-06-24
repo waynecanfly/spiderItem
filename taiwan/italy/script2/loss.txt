@@ -1,0 +1,4 @@
+http://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=1101&year=96&seamon=&mtype=A&@6@TWN10001
+http://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=1101&year=96&seamon=&mtype=A&@7@TWN10001
+http://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=1101&year=97&seamon=&mtype=A&@2@TWN10001
+

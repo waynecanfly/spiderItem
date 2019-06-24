@@ -1,0 +1,10 @@
+﻿
+1.announcementSpider 是最初的爬虫代码，采用scrapy框架，但是测试发现即使post正确的数据去翻页但返回的数据永远是第一页的内容
+2.newSpider是继announcementSpider之后采用selnium+headlessChrome的完整爬虫，这是该方法的第二个版本，相对于第一个版本做了些优化,
+    减少了请求页面的次数（去除公司搜索，改用公司反查数据库，增大每页显示数量），尽量到本地处理
+3.fastSpider是newSpider的裁剪版，由于js渲染速度较慢，所以只负责拉取页面数据不在做后续的处理（解决了长时间建立连接网站主动断开连接的问题）
+4.fileDownload负责解析fastSpider拉取下来的数据并下载（利用twisted的异步，速度较快）
+5.for_loss负责补充下载is_download为0的数据
+
+总结：采用fastSpider+fileDownload
+                                                                                            --2018.09.29 by 张旭

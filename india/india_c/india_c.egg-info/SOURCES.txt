@@ -1,0 +1,16 @@
+setup.py
+india/MyfilesPipeline.py
+india/__init__.py
+india/items.py
+india/middlewares.py
+india/pipelines.py
+india/settings.py
+india/start.py
+india/spiders/BasicInfoBSE.py
+india/spiders/BasicInfoNSE.py
+india/spiders/__init__.py
+india_c.egg-info/PKG-INFO
+india_c.egg-info/SOURCES.txt
+india_c.egg-info/dependency_links.txt
+india_c.egg-info/entry_points.txt
+india_c.egg-info/top_level.txt

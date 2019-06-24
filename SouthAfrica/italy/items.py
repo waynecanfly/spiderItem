@@ -1,0 +1,96 @@
+# -*- coding: utf-8 -*-
+
+# Define here the models for your scraped items
+#
+# See documentation in:
+# https://doc.scrapy.org/en/latest/topics/items.html
+
+import scrapy
+
+
+class ItalyCompanyItem(scrapy.Item):
+    country_code_listed = scrapy.Field()
+    exchange_market_code = scrapy.Field()
+    code = scrapy.Field()
+    name = scrapy.Field()
+    security_code = scrapy.Field()
+    EmailAddress = scrapy.Field()
+    FaxNumber = scrapy.Field()
+    MasterID = scrapy.Field()
+    PhysicalAddress = scrapy.Field()
+    PostalAddress = scrapy.Field()
+    security_type = scrapy.Field()
+    Status = scrapy.Field()
+    TelephoneNumber = scrapy.Field()
+    Website = scrapy.Field()
+    RegistrationNumber = scrapy.Field()
+    gmt_create = scrapy.Field()
+    user_create = scrapy.Field()
+    ISIN = scrapy.Field()
+    Industry = scrapy.Field()
+    Sector = scrapy.Field()
+    ShortName = scrapy.Field()
+    ListingDate = scrapy.Field()
+
+
+class ItalydetailItem(scrapy.Item):
+    mesage = scrapy.Field()
+    Board = scrapy.Field()
+    Change = scrapy.Field()
+    InstrumentType = scrapy.Field()
+    ListingDate = scrapy.Field()
+    PercentageChange = scrapy.Field()
+    MarketCapitalisation = scrapy.Field()
+    Price = scrapy.Field()
+    ShortName = scrapy.Field()
+    profile = scrapy.Field()
+    security_code = scrapy.Field()
+    gmt_create = scrapy.Field()
+    user_create = scrapy.Field()
+    EmailAddress = scrapy.Field()
+    FaxNumber = scrapy.Field()
+    name = scrapy.Field()
+    MasterID = scrapy.Field()
+    PhysicalAddress = scrapy.Field()
+    PostalAddress = scrapy.Field()
+    security_type = scrapy.Field()
+    Status = scrapy.Field()
+    TelephoneNumber = scrapy.Field()
+    Website = scrapy.Field()
+    RegistrationNumber = scrapy.Field()
+
+
+class ItalyfileItem(scrapy.Item):
+    file_name = scrapy.Field()
+    file_path = scrapy.Field()
+    doc_source_url = scrapy.Field()
+
+    company_code = scrapy.Field()
+    disclosure_date = scrapy.Field()
+    fiscal_year = scrapy.Field()
+    country_code = scrapy.Field()
+    exchange_market_code = scrapy.Field()
+    financial_reporting_standard_code = scrapy.Field()
+    doc_type = scrapy.Field()
+    is_doc_url_direct = scrapy.Field()
+    is_downloaded = scrapy.Field()
+    currency_code = scrapy.Field()
+    doc_downloaded_timestamp = scrapy.Field()
+    language_written_code = scrapy.Field()
+    report_id = scrapy.Field()
+    doc_local_path = scrapy.Field()
+    gmt_create = scrapy.Field()
+    user_create = scrapy.Field()
+    financial_statement_season_type_code = scrapy.Field()
+    financial_statement_type_code = scrapy.Field()
+    start_date = scrapy.Field()
+    end_date = scrapy.Field()
+    company_id = scrapy.Field()
+    name_origin = scrapy.Field()
+    name_en = scrapy.Field()
+    security_code = scrapy.Field()
+    country_code_listed = scrapy.Field()
+    ipo_date = scrapy.Field()
+    status = scrapy.Field()
+    website_url = scrapy.Field()
+    pdf_name = scrapy.Field()
