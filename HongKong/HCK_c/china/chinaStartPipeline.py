@@ -19,7 +19,7 @@ class endPipeline(object):
     code_list_in_mysql = []
     new_code_list = []
     company_num_list = []
-    conn = pymysql.connect(host="10.100.4.99", port=3306, db="opd_common", user="root", passwd="OPDATA", charset="utf8")
+    conn = pymysql.connect(host="1*********", port=*********, db="o*********", user="*********", passwd="*********", charset="*********")
     cursor = conn.cursor()
 
     def get_newest_company_file(name):
