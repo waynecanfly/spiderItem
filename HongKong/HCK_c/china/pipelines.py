@@ -14,7 +14,7 @@ class ChinaDetailPipeline(object):
     def process_item(self, item, spider):
         if spider.name == "HCK_information":
             global flag
-            conn = pymysql.connect(host="10.100.4.99", port=3306, db="opd_common", user="root", passwd="OPDATA", charset="utf8")
+            conn = pymysql.connect(host="*********", port=*********, db="*********", user="*********", passwd="*********", charset="utf8")
             cursor = conn.cursor()
             if item["Listing_Date"] != "-":
                 update_sql_company = "update company set ipo_date=%s,gmt_update=%s,user_update=%s where code=%s"
@@ -62,7 +62,7 @@ class ChinaDetailPipeline(object):
 class ChinaChangeNamePipeline(object):
     def process_item(self, item, spider):
         if spider.name == "HCK_infor_for_web":
-            conn = pymysql.connect(host="10.100.4.99", port=3306, db="opd_common", user="root", passwd="OPDATA",
+            conn = pymysql.connect(host="*********", port=3306, db="*********", user="*********", passwd="*********",
                                    charset="utf8")
             cursor = conn.cursor()
             params = [
