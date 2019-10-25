@@ -15,7 +15,7 @@ class CodeSpider(scrapy.Spider):
     # start_urls = ["http://www.hkexnews.hk/listedco/listconews/advancedsearch/search_active_main.aspx"]
     url1 = "http://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym="
     url2 = "&sc_lang=en"
-    conn = pymysql.connect(host="10.100.4.99", port=3306, db="opd_common", user="root", passwd="OPDATA", charset="utf8")
+    conn = pymysql.connect(host="*********", port=3306, db="*********", user="*********", passwd="*********", charset="utf8")
     cursor = conn.cursor()
     sql = "select security_code,company_id from company_data_source where company_id like 'HKG%'"
     cursor.execute(sql)
@@ -84,8 +84,8 @@ class CodeSpider(scrapy.Spider):
             item["doc_source_url"] = None
             yield item
         except:
-            conn1 = pymysql.connect(host="10.100.4.100", port=3306, db="Standard_database", user="root",
-                                    passwd="OPDATA",
+            conn1 = pymysql.connect(host="*********", port=3306, db="*********", user="*********",
+                                    passwd="*********",
                                     charset="utf8")
             cursor1 = conn1.cursor()
             sql = "insert into HCK_information_for_loss(company_id, not_have_url)value (%s,%s)"
