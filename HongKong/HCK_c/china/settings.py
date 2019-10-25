@@ -40,7 +40,7 @@ NEWSPIDER_MODULE = 'china.spiders'
 
 # Override the default request headers:
 DEFAULT_REQUEST_HEADERS = {
-    "User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36",
+    "User-Agent":"***************************************************************",
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
     # "Content-Type": "application/json",
     # "X-Requested-With": "XMLHttpRequest"
@@ -107,7 +107,7 @@ FILES_URLS_FIELD = "doc_source_url",
 FILES_STORE = "/data/OPDCMS/HCK/pdf_l"
 
 """scrapy-splash"""
-# SPLASH_URL = 'http://192.168.99.100:8050'
+# SPLASH_URL = '************************************'
 # DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
 # HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
 
